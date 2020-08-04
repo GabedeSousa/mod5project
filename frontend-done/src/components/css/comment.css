@@ -1,0 +1,46 @@
+.edit-card-first{
+    width : 20%;float : left;
+}
+.edit-card-second{
+    width : 100%
+}
+.edit-card-third{
+    width: 75%;
+    float: left;
+    margin-left: 3%;
+    padding-left : 10px
+}
+.edit-card-third > h4{
+    float : left
+}
+.edit-card-third > p {
+    margin-top : 10%
+}
+.edit-card-four{
+    float: right;
+    margin-right: 20%;
+    margin-top: 5%
+}
+.edit-card-five{
+    margin-left : 3%
+}
+.card-edit-six{
+    width: 75%;
+    float: left;
+    margin-left: 3%;
+    padding-left : 10px
+}
+.card-edit-six > h4{
+    float : left
+}.card-edit-six > p{
+    margin-top : 7%
+}
+.card-edit-seven{
+    margin-top : -2%
+}
+.card-edit-eight{
+    width : 100%
+}
+.card-edit-nine{
+    margin-top : 1% !important
+}

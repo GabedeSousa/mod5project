@@ -1,0 +1,61 @@
+.header-first{
+    background:#001f3f;
+    height : 80px;
+    position: fixed;
+    width: 100%;
+    z-index: 100
+}
+.header-second{
+    padding-left : 2%;
+    padding-top : 2%;
+    color : white;
+    font-size : 50px;
+    float : left;
+    cursor : pointer;
+}
+.header-third{
+    float : right;
+    padding-top : 2%;
+    padding-right : 3%;
+}
+.header-four{
+    float:left;
+    margin-left : 20px;
+    color : white;
+    cursor : pointer;
+}
+.whitecolor{
+    color: white;
+}
+.whitecolor:hover{
+    color: white;
+}
+@media (max-width : 2000px){
+    .header-first{
+        height : 100px;
+    }
+}
+@media (max-width : 2000px){
+    .header-second{
+        padding-top : 3%;
+    }
+    .header-third{
+        padding-top : 3%;
+    }
+}
+@media (max-width : 900px){
+    .header-second{
+        padding-top : 4%;
+    }
+    .header-third{
+        padding-top : 4%;
+    }
+}
+@media (max-width : 700px){
+    .header-second{
+        padding-top : 5%;
+    }
+    .header-third{
+        padding-top : 5%;
+    }
+}
